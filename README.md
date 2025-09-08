@@ -34,7 +34,7 @@ Streamlit 🌐
 
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
-git clone 
+git clone https://github.com/kartikey-tiwari-ux/project-Movie-Success-Prediction-and-Sentiment-Study.git
 cd movie-sentiment-app
 
 2️⃣ Install dependencies
