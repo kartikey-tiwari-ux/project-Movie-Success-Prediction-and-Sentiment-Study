@@ -61,7 +61,7 @@ Deploy 🎉.
 
 After deployment, you’ll get a public link like:
 
-[https://your-username-movie-sentiment-app.streamlit.app](https://project-movie-success-prediction-and-sentiment-study-wltfqlko8.streamlit.app/?embed_options=dark_theme,show_colored_line,show_padding,show_toolbar)
+https://project-movie-success-prediction-and-sentiment-study-wltfqlko8.streamlit.app/?embed_options=dark_theme,show_colored_line,show_padding,show_toolbar
 
 🧠 Model Details
 
