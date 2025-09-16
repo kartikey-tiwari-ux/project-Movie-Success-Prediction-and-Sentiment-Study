@@ -1,3 +1,11 @@
+MOVIE SENTIMENT ANALYSER STREAMLIT APP LINK : https://project-movie-success-prediction-and-sentiment-study-wltfqlko8.streamlit.app/?embed_options=dark_theme,show_colored_line,show_padding,show_toolbar
+
+
+
+
+
+
+
 🎬 Movie Success Prediction & Sentiment Study
 
 This project predicts movie review sentiment (positive/negative) using IMDB dataset reviews and builds a simple Streamlit web app to test the model interactively.
